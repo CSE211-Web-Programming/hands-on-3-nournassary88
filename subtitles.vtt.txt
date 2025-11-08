@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Hi, iam nour osama 
+
+00:00:03.000 --> 00:00:06.000
+I'm 20 years old.
+
+00:00:06.000 --> 00:00:10.000
+I'm a third-year student majoring in Computer Science Engineering at Galala University.
+
+00:00:10.000 --> 00:00:14.000
+My track is Software Engineering.
+
+00:00:14.000 --> 00:00:18.000
+I'm making this video for my first HTML page for my Web Programming course task.
